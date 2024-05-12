@@ -2,4 +2,4 @@
 First testing git with github
 
 ## GitTest
-use local repository
+use remote repository
