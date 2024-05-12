@@ -1,5 +1,5 @@
 # GitTest
 First testing git with github
 
-##GitTest
+## GitTest
 use local repository
